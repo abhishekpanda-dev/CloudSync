@@ -1,0 +1,4 @@
+# Validated with the existing Python 3.11 environment.
+streamlit==1.65.0
+boto3==1.43.112
+pytest==9.1.1
